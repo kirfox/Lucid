@@ -223,14 +223,22 @@ header .header-content .header-content__buttons .header-content__button:hover {
 .content .content-advantage .content-advantage__list {
   margin-top: 40px;
   list-style-type: none;
+ 
 }
 .content .content-advantage .content-advantage__list li {
   margin-top: 23px;
+  
 }
-.content .content-advantage .content-advantage__list img {
-  width: 16px;
-  height: 17px;
+.content .content-advantage .content-advantage__list i {
+  width: 20px;
+  text-align: center;
   margin-right: 5px;
+  color: #008ed6;
+}
+.content .content-advantage .content-advantage__list span {
+  font-family: "SourceSansPro-Regular";
+  font-size: 18px;
+  font-weight: 500;
 }
 .content .content-customize {
   padding-left: 140px;
